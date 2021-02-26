@@ -1,0 +1,52 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16pt;
+    line-height: 1.5714;
+    background-color: #282a36;
+    color: #f8f8f2;
+    margin: 10rem;
+    max-width: 65ch;
+    position: relative;
+}
+
+a {
+    color: #c9a7fa;
+}
+
+a:visited {
+    color: #c9a7fa;
+}
+
+dt {
+    display: inline;
+}
+
+dd {
+    display: inline;
+    margin-left: 0;
+}
+
+.links div {
+    margin-top: -.25rem;
+}
+
+#bio {
+    margin-top: -.5rem;
+}
+
+#posts {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#posts li {
+    margin-bottom: 1em;
+}
+
+#posts time {
+    display: block;
+}
+
+#posts a {
+    display: inline-block;
+}
